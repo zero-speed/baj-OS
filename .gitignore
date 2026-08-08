@@ -1,1 +1,4 @@
-baj_os/
+/target
+**/*.rs.bk
+
+.vscode
