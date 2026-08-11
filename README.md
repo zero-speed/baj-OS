@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/phil-opp/blog_os/workflows/Code/badge.svg?branch=post-12)](https://github.com/phil-opp/blog_os/actions?query=workflow%3A%22Code%22+branch%3Apost-12)
 
-Este repositorio contiene el código fuente de la entrada [Async/Await][post] de la serie [Writing an OS in Rust](https://os.phil-opp.com).
+Este repositorio contiene el código fuente del Sistema Operativo BAJ-OS para el curso de "Sistemas operativos" y tambien la entrada [Async/Await][post] de la serie [Writing an OS in Rust](https://os.phil-opp.com).
 
 [post]: https://os.phil-opp.com/async-await/
 
