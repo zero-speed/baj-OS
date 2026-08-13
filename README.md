@@ -2,7 +2,7 @@
 Este repositorio contiene el código fuente del Sistema Operativo BAJ-OS para el curso de "Sistemas operativos" 
 de la serie [Writing an OS in Rust](https://os.phil-opp.com).
 
-INTEGRANTES :
+INTEGRANTES.
   Ayte Noa Alvaro Alonso.
 
   Quispe Chura Jhon Efrain.
