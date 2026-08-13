@@ -3,9 +3,11 @@ Este repositorio contiene el código fuente del Sistema Operativo BAJ-OS para el
 de la serie [Writing an OS in Rust](https://os.phil-opp.com).
 
 INTEGRANTES :
-\Ayte Noa Alvaro Alonso 
-\Quispe Chura, Jhon Efrain 
-\Suca Hilares, Gabriel Caleb 
+  Ayte Noa Alvaro Alonso.
+
+  Quispe Chura Jhon Efrain.
+
+  Suca Hilares Gabriel Caleb. 
 
 [post]: https://os.phil-opp.com/async-await/
 
